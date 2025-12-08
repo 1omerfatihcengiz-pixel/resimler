@@ -2,8 +2,7 @@ todo işlemi görüyor todo türkçesiyle yapılacaklar listesi demek
 
 
 
-![image alt]([https://github.com/1omerfatihcengiz-pixel/resimler/blob/fdb0e1447ce8ced8ae562eb9ac1ff97cc4b82088/todoprojesi.jpg](https://github.com/1omerfatihcengiz-pixel/resimler/blob/97aaa3b429a2d22d0e37a8f6d4aa43082e7bff68/8578a664-8ace-46c3-a0a0-4b17ed81f857.jpg)
-
+![image alt](https://github.com/1omerfatihcengiz-pixel/resimler/blob/97aaa3b429a2d22d0e37a8f6d4aa43082e7bff68/8578a664-8ace-46c3-a0a0-4b17ed81f857.jpg)
 
 
 
