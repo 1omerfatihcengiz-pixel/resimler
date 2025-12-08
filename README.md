@@ -1,6 +1,25 @@
+📝 ToDo (Yapılacaklar Listesi) Uygulaması
 
-ToDo işlemi yapılıyor. ToDo türkçesiyle 'Yapılacaklar Listesi' anlamına gelir. Yazdıklarımızı arama özelliğiyle arayabilirsiniz. İşaretlerle altta görüldüğü gibi işlem yapabilirsiniz. Butonlar işlevsel
-ve güzel görünüyor. Task temizle butonuna basarak bütün yazılanları silebilirsiniz. Aynı zamanda sizin için X butonu eklendi, ordan da teker teker silebilirsiniz. Aynı zamanda benim  yaptıgım kod da. özenle çalışılmıştır.aynızamanda tek başıma yapmış bulunmaktayım.kaç gün uraştım çokdegil. ama hatırlamıyorum. eklemeişlemi çok urarştırmıştı.
+Bu proje, kişisel görevlerinizi kolayca yönetebilmeniz için geliştirilmiş basit ve işlevsel bir ToDo uygulamasıdır.
+Modern bir arayüz, kullanışlı butonlar ve pratik özelliklerle özenle hazırlanmıştır.
+
+✨ Özellikler
+
+Görev Ekleme: Yapılacaklarınızı hızlı bir şekilde listeye ekleyebilirsiniz.
+
+Arama Özelliği: Yazdığınız görevleri anında aratıp filtreleyebilirsiniz.
+
+Tek Tek Silme: Her görevin yanında bulunan X butonu sayesinde görevleri tek tek silebilirsiniz.
+
+Tümünü Temizle: "Task Temizle" butonu ile listedeki tüm görevleri tek tıkla temizleyebilirsiniz.
+
+Şık ve İşlevsel Arayüz: Tüm butonlar hem estetik hem de kullanışlı olacak şekilde tasarlanmıştır.
+
+🧑‍💻 Geliştirme Süreci
+
+Bu proje tamamen kişisel olarak tarafımdan geliştirilmiştir.
+Özellikle ekleme işlemi üzerinde bir süre uğraşmam gerekse de ortaya temiz ve düzgün çalışan bir yapı çıkmıştır.
+Kaç gün çalıştığımı tam hatırlamasam da süreç keyifli ve öğretici olmuştur.
 
 ![image alt](https://github.com/1omerfatihcengiz-pixel/resimler/blob/97aaa3b429a2d22d0e37a8f6d4aa43082e7bff68/8578a664-8ace-46c3-a0a0-4b17ed81f857.jpg)
 
